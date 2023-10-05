@@ -1,4 +1,4 @@
-# Project - House Sales in King County, USA
+Project - House Sales in King County, USA
 
 Introduction: 
 
